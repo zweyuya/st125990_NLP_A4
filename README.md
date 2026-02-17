@@ -47,7 +47,7 @@ Built using **PyTorch** and deployed with **Flask**.
 app/
 │
 ├── app.py # Flask backend
-├── sbert_model.pth # Trained weights
+├── sbert_model.pth # Trained model 
 ├── vocab.pkl # Trained weights
 ├── templates/
 │ └── index.html # Frontend UI
